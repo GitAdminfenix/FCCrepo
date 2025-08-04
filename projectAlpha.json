@@ -1,3 +1,5 @@
-
-let personName = obj.name;
-let personAge = obj.age;
+{
+  "name": "John Doe",
+  "age": 30,
+  "isStudent": false
+}
